@@ -1,11 +1,11 @@
-﻿province_name;registration_number
-Bulawayo Metropolitan;238399
-Harare Metropolitan;849818
-Manicaland;702955
-Mashonaland Central;515136
-Mashonaland East;611929
-Mashonaland West;625869
-Masvingo;591382
-Matabeleland North;326851
-Matabeleland South;249738
-Midlands;727744
+PROV_CODE	province_name	registration_number
+10	Bulawayo Metropolitan	238399
+19	Harare Metropolitan	849818
+11	Manicaland	702955
+12	Mashonaland Central	515136
+13	Mashonaland East	611929
+14	Mashonaland West	625869
+18	Masvingo	591382
+15	Matabeleland North	326851
+16	Matabeleland South	249738
+17	Midlands	727744
