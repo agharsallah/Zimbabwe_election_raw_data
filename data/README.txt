@@ -1,3 +1,8 @@
+**General info 
+According to the Inspection Centres 2018 file; 
+Zimbabwe is composed of 10 Provinces , 126 districts and 210 constituency
+also 89 Local authority
+
 **GET lat lon for a way by the node ID
 https://www.openstreetmap.org/api/0.6/way/275461128/full
 
