@@ -1,5 +1,24 @@
-GET lat lon for a way by the node ID
+**GET lat lon for a way by the node ID
 https://www.openstreetmap.org/api/0.6/way/275461128/full
 
-Overpass 
+**Overpass 
 http://overpass-turbo.eu/#
+
+**basic overpass querry : 
+[out:json];
+// gather results
+(
+  node["amenity"="university"]({{bbox}});
+  way["amenity"="university"]({{bbox}});
+  relation["amenity"="university"]({{bbox}});
+);
+// print results
+out body;
+>;
+out skel qt;
+
+**List of AMenty to filter with :
+https://wiki.openstreetmap.org/wiki/Key:amenity
+
+** Zimbabwe statistics
+http://www.zimstat.co.zw/
